@@ -1,0 +1,14 @@
+.container {
+    padding: 0;
+    border: 1px solid rgba(0,0,0,.125);
+    margin-bottom: 2rem;
+}
+.main {
+    border-top: 1px solid rgba(0,0,0,.125);
+    padding: 15px;
+    font-size: 18px;
+    text-align: justify;
+}
+.title {
+  padding: 15px;
+}
